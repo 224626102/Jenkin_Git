@@ -6,7 +6,7 @@ pipeline {
             steps {
                 
                     echo "Compile and package code"
-                    echo "Build automation tool used is Maven"
+                    echo "Build automation tool used is Maven "
                 }
             }
         
